@@ -7,4 +7,4 @@ tidak ada yang dapat mengukur perkembangan teknologi secara akurat. jQuery sanga
 
 Dengan memberikan materi jQuery bagi siswa, siswa akan dengan sendirinya memiliki pengalaman memutakhirkan Browser untuk Aplikasi yang mereka bangun. dengan jQuery juga, siswa dapat menentukan arah kemana ia akan melanjutkan fokus ke aplikasi Desktop, Mobile atau Website.
 
-Untuk saat ini, sangat tidak dianjurkan untuk mengajari Siswa Javascript Native, mengajari mereka Javascript Native hanya akan membuang-buang waktu mereka untuk membangun aplikasi yang enggan diterima oleh pasar.
+Untuk saat ini, sangat tidak dianjurkan untuk mengajari Siswa Javascript Native, mengajari mereka Javascript Native hanya akan membuang-buang waktu mereka untuk membangun aplikasi yang akhirnya produk yang dihasilkan akan enggan diterima oleh pasar.
